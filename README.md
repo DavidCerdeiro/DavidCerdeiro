@@ -1,10 +1,12 @@
-# Buenas! Me llamo David Cerdeiro 👋
-## Estudiante de Ingeniería Informática
+# Hi! I'm David Cerdeiro 👋
+## Software Engineer
+I am currently completing my Computer Engineering degree at the University of Cádiz.
+Through my studies and self-taught learning, I have developed a solid foundation in programming principles and problem-solving in software development. I have gained experience working with different programming languages, applying them in various projects throughout my academic journey and during my internship at NTT DATA.
+
+:technologist: Since I was a child, I have been passionate about technology, starting with the world of video games, which sparked my interest in the systems behind them and technological development in general.
+
+My career goal is to contribute value through my knowledge and logical thinking while continuing to grow in the field of software development.
 Actualmente me encuentro finalizando el grado de Ingeniería Informática en la UCA, mediante el cual y mediante aprendizaje autodidacta he desarollado mis habilidades como programador en distintos lenguajes como más adelante indico :smile:.
-
-:technologist: Todo empezó con el mundo de los videojuegos cuando era un niño, ese amor que desarrollé por este hobby desembocó en una gran pasión por el mundo de detrás de este y el mundo tecnológico en general.
-
-🌱 Actualmente me encuentro aprendiendo Java, tests JUnit y los frameworks de Vaadin y Spring. Además de esto, estoy profundizando en la programación web utilizando el framework de Laravel.
 
 ## Tecnologías
 ![Icono de C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
